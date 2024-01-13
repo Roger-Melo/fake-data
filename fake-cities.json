@@ -1,6 +1,6 @@
 [
   {
-    "cityName": "Lisbon",
+    "name": "Lisbon",
     "country": "Portugal",
     "emoji": "🇵🇹",
     "date": "2027-10-31T15: 59: 59.138Z",
@@ -12,7 +12,7 @@
     "id": 73930385
   },
   {
-    "cityName": "Cidade 2",
+    "name": "Cidade 2",
     "country": "Portugal",
     "emoji": "🇵🇹",
     "date": "2027-10-31T15: 59: 59.138Z",
