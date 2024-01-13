@@ -1,14 +1,20 @@
 [
   {
-    "name": "Lisbon",
-    "country": "Portugal",
-    "notes": "My favorite city so far!",
-    "id": 73930385
+    "id": 73930385,
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "notes": "Enorme variedade de coisas para ver e fazer."
   },
   {
-    "name": "Cidade 2",
-    "country": "Portugal",
-    "notes": "My favorite city so far!",
-    "id": 948723984
+    "id": 948723984,
+    "name": "Curitiba",
+    "country": "Brasil",
+    "notes": "Cuidado com planejamento urbano, belas áreas verdes e transporte público de qualidade."
+  },
+  {
+    "id": 948723984,
+    "name": "Budapeste",
+    "country": "Hungria",
+    "notes": "Uma das mais belas cidades da Europa. Arquitetura de deixar qualquer um de queixo caído."
   }
 ]
