@@ -3,30 +3,50 @@
     "id": 73930385,
     "name": "Buenos Aires",
     "country": "Argentina",
-    "notes": "Enorme variedade de coisas para ver e fazer."
+    "notes": "Enorme variedade de coisas para ver e fazer.",
+    "position": {
+      "latitude": -34.61664368696929,
+      "longitude": -58.449095124883804
+    }
   },
   {
     "id": 948723984,
     "name": "Curitiba",
     "country": "Brasil",
-    "notes": "Cuidado com planejamento urbano, belas áreas verdes e transporte público de qualidade."
+    "notes": "Cuidado com planejamento urbano, belas áreas verdes e transporte público de qualidade.",
+    "position": {
+      "latitude": -25.437370980404776,
+      "longitude": -49.27058902123733
+    }
   },
   {
     "id": 827477367346724,
     "name": "Budapeste",
     "country": "Hungria",
-    "notes": "Uma das mais belas cidades da Europa. Arquitetura de deixar qualquer um de queixo caído."
+    "notes": "Uma das mais belas cidades da Europa. Arquitetura de deixar qualquer um de queixo caído.",
+    "position": {
+      "latitude": 47.49965441993388,
+      "longitude": 19.038280069820203
+    }
   },
   {
     "id": 750392432,
     "name": "Maringá",
     "country": "Brasil",
-    "notes": "Qualidade de vida nota mil. Uma das cidades mais arborizadas e limpas do país."
+    "notes": "Qualidade de vida nota mil. Uma das cidades mais arborizadas e limpas do país.",
+    "position": {
+      "latitude": -23.42089821640173,
+      "longitude": -51.9332036645167
+    }
   },
   {
     "id": 674854,
     "name": "Ushuaia",
     "country": "Argentina",
-    "notes": "Já ouviu falar do fim do mundo? Bonita, aconchegante e gelada."
+    "notes": "Já ouviu falar do fim do mundo? Bonita, aconchegante e gelada.",
+    "position": {
+      "latitude": -54.80188821875919,
+      "longitude": -68.30280605105817
+    }
   }
 ]
